@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello Humanzz! I'm Haikal<br>💻 I love diving into Linux and Penetration Testing<br>📫 You can reach me through my Email: flxnzz_47@protonmail.com
+👋 Hello Humanzz! I'm Haikal<br>💻 I'm digitally overdosed on Linux and love diving into Penetration Testing<br>📫 You can reach me through my Email: flxnzz_47@protonmail.com
 
 
 ## 🌐 Socials:
