@@ -1,5 +1,7 @@
-# 💫 About Me:
-👋 Hello Humanzz! I'm Haikal<br>💻 I'm digitally overdosed on Linux and love diving into Penetration Testing<br>📫 You can reach me through my Email: rfdhaikal.wizz@proton.me
+# Greetings, Wzrd Here..
+Red Team at Day, Hunter by Night. Non-stop pwning system 24/7. Offensive Security Enthusiast with proven records by several cyber security competitions. Addicted to explore about how everything's worked at the low-level perspective. Playing with binaries, flipping its bit and bytes. Often participating on CTF competitions as Wzrd. Longlife Breacher.
+
+Did u know that Binary representation of U is 01010101 😍 --
 
 
 ## 🌐 Socials:
