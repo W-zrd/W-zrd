@@ -1,8 +1,6 @@
 # Greetings, Wzrd Here..
 Red Team at Day, Hunter by Night. Non-stop pwning system 24/7. Offensive Security Enthusiast with proven records by several cyber security competitions. Addicted to explore about how everything's worked at the low-level perspective. Playing with binaries, flipping its bit and bytes. Often participating on CTF competitions as Wzrd. Longlife Breacher.
 
-Did u know that Binary representation of U is 01010101 😍 --
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafidhia-haikal-pasya-5997a2221) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flxnzz_47) 
